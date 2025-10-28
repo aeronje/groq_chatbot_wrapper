@@ -12,12 +12,12 @@ aeronje
 # Important reminder (English well-mannered version)
 Cloning and deploying this repository requires a Groq account. A free‑tier account will get the job done, but a paid or subscription tier is a lot better. Please [sign up](https://console.groq.com/login) using your GitHub or Google account before you clone the repo.
 
-The chatbot’s current personality is set to Daddy Cardboard. If you want to switch it up to match your own vibe, edit line 18 in [memory.js](https://github.com/aeronje/groq_chatbot_wrapper/blob/main/memory.js) accordingly. Keep your instructions short and to the point—concise as the AI model (Groq/Compound‑Mini) needs to re‑configure itself. Lengthy explanations will only slow it down.
+The chatbot’s current personality is set to Daddy Cardboard. If you want to switch it up to match your own vibe, edit line 18 in [memory.js](https://github.com/aeronje/groq_chatbot_wrapper/blob/main/memory.js). Keep your instructions short and to the point—concise as the AI model [Groq/Compound‑Mini](https://console.groq.com/docs/compound/systems/compound-mini) needs to re‑configure itself. Lengthy explanations will only slow it down.
 
 # Important reminder (Taglish tolonges gedli etneb version)
 Bes, please naman, [Groq account](https://console.groq.com/login) muna bago clone yawa!
 
-One more thing Bes, hindi nobela ang ilalapat mo sa line 18 ng [memory.js](https://github.com/aeronje/groq_chatbot_wrapper/blob/main/memory.js) ha? Bigyan mo lang ng brief context kung paano mo gusto magreply ang chatbot sa iyo.
+One more thing bes, hindi nobela ang ilalapat mo sa line 18 ng [memory.js](https://github.com/aeronje/groq_chatbot_wrapper/blob/main/memory.js) ha? Bigyan mo lang ng brief context kung paano mo gusto magreply ang chatbot sa iyo.
 
 # Instructions
 
