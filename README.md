@@ -96,4 +96,4 @@ npm start
 Currently in production, but it will be available on the [digital creator page](https://web.facebook.com/profile.php?id=61579310017234) once filming is complete.
 
 # Update as of January 5th 2026
-Still working on it.
+Merged today but will revisit if there is any enhancement needed.
